@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android_HiddenCalculator</string>
+    <string name="text_button">Калькулятор</string>
+    <string name="hint_edit_text">Поле ввода</string>
+    <string name="text_send_data_button">Отправить данные</string>
+    <string name="resultTV">Результат</string>
+
 </resources>
